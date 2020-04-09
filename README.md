@@ -1,6 +1,6 @@
 ![Python|2.7](https://img.shields.io/badge/Python-2.7-blue.svg)
-# fbtools versi: 0.2
-<img src="https://github.com/rz-id/fbtools/blob/master/Screenshot_20200404_012112.jpg"/>
+# fbtools versi: 0.3
+<img src="https://github.com/rz-id/fbtools/blob/master/Screenshot_20200410_010405.jpg"/>
 
 # install
 ```
